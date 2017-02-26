@@ -3,7 +3,7 @@ Le but de ce TD est d'implémenter la méthode de tri a bulle
 
 ## Installation
 * Télécharger le [**ZIP**](https://github.com/poussard/scala-TD5/archive/master.zip) et décompresser le
-* Ou taper la commande git clone https://github.com/poussard/scala-TD5.gitDécompresser le
+* Ou taper la commande git clone https://github.com/poussard/scala-TD5.git
 * Importer le comme 'Existing Projects into Workspace'
 
 ## Liste des fichiers
