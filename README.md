@@ -40,7 +40,7 @@ def bubble[A](myList: List[A], fonctionOrdre: (A,A) => Boolean):List[A]
 une fonction qui continue de trier (fonction bulle) jusqu'a ce qu'il n'y ait plus de permutation ( la liste de initial est la meme de la final)
 Signature 
 ```scala
-def bubbleTri[A](myList: List[A], fonctionOrdre: (A,A) => Boolean):List[A]=   
+def bubbleTri[A](myList: List[A], fonctionOrdre: (A,A) => Boolean):List[A]
 ```
 ## Fusion
 Ecrire une methode qui fusionne 2 listes triees
@@ -51,6 +51,6 @@ Signature
 ```    
 Avec Type generique
 ```scala 
-    def fusionPoly[A](list1: List[A],list2: List[A],fonctionOrdre: (A,A) => Boolean): List[A] = ???
+    def fusionPoly[A](list1: List[A],list2: List[A],fonctionOrdre: (A,A) => Boolean): List[A]
 ```
 
